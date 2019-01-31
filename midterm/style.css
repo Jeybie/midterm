@@ -1,0 +1,27 @@
+
+table{
+	border:solid 1px;
+	background-color: black;
+
+}
+
+
+input{
+	width:23.3%;
+	height: 60px;
+	margin-bottom: 5px;
+	background-color: green;
+	border:solid 3px;
+	font-size: 20;
+}
+
+
+
+button{
+	width:54px;
+	height: 60px;
+	padding:10px;
+	background-color: green;
+	font-size: 18;
+
+}
